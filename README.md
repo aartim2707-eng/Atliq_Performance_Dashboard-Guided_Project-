@@ -1,14 +1,6 @@
 # Atliq_Performance_Dashboard-Guided_Project-
 Power BI dashboard analyzing Atliq’s yearly performance across finance, sales, marketing, and supply chain. Provides P&amp;L insights, customer/product analysis, forecast accuracy, and executive 360° view. Transforms raw data into actionable intelligence for strategic decision-making.
 
-
-# 📈 Atliq Company – Annual Performance Dashboard
-
-This project showcases a **Power BI dashboard** built to evaluate Atliq’s performance over the past year.  
-By consolidating diverse datasets into one interactive platform, the dashboard empowers decision-makers with **clarity and actionable insights** across multiple business functions.
-
----
-
 ## 🔍 Dashboard Highlights
 
 ### Finance Overview
